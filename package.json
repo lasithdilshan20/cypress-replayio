@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+  "devDependencies": {
+    "@replayio/cypress": "^0.4.6"
+  }
+}
